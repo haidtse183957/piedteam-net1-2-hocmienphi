@@ -14,7 +14,7 @@ public class Class1
 // Database First:
 // Mình làm việc với 1 Database đã có sẵn, (Create Database bằng SQL)
 // Vô tạo Database nè, setup các field, các mối quan hệ, ràng buộc trong DB
-// Sau đso ở trên code sử dụng các Driver hoặc thư viện ORM để
+// Sau đó ở trên code sử dụng các Driver hoặc thư viện ORM để
     // kết nối xuống Database
 // Ở trên code sẽ tạo các class tương ứng với các table trong Database
 // Thằng này sử dụng khi nào: Khi mình Database đã có sẵn và đang được sử dụng
